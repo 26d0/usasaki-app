@@ -10,7 +10,7 @@
 	 * @type {(arg0: { particleCount: number; spread: number; origin: { y: number; } | { x: number; } | { x: number; }; angle?: number; }) => void}
 	 */
     let confetti;
-    let currentPattern = "うささき";
+    let currentPattern = "うさささ";
     let isAnimating = false;
     let visible = true;
     let currentTheme = 'valentine';
